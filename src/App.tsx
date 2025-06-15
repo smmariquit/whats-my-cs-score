@@ -38,6 +38,16 @@ const questions: Question[] = [
   { id: 16, text: "Are you good at math?", weight: 1 },
   { id: 17, text: "Do you hate GE courses?", weight: 1 },
   { id: 18, text: "Are you a procrastinator?", weight: 1 },
+  { id: 19, text: "Is 'Lifebuoy' a brand of soap?", weight: 1 },
+  { id: 20, text: "Is 'Listerine' used for washing your hair?", weight: 1 },
+  { id: 21, text: "Is 'Colgate' a toothpaste brand?", weight: 1 },
+  { id: 22, text: "Is 'Head & Shoulders' a type of shampoo?", weight: 1 },
+  { id: 23, text: "Is 'Dove' only a chocolate brand?", weight: 1 },
+  { id: 24, text: "Is 'Safeguard' a popular hand soap?", weight: 1 },
+  { id: 25, text: "Is 'Rexona' a deodorant?", weight: 1 },
+  { id: 26, text: "Is 'Pantene' a type of mouthwash?", weight: 1 },
+  { id: 27, text: "Is 'Cetaphil' used for facial cleansing?", weight: 1 },
+  { id: 28, text: "Is 'Sensodyne' a shampoo?", weight: 1 },
 ];
 
 function DarkModeToggle({ darkMode, setDarkMode }: { darkMode: boolean; setDarkMode: (v: boolean) => void }) {
