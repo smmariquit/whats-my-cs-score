@@ -1,4 +1,8 @@
-# What's My CS Score? 🎮
+# What's My CS Score? 🎮 -
+
+Made with React
+TODO:
+Leaderboards
 
 A fun quiz application that determines your "CS Score" based on various computer science student stereotypes and habits. Similar to the rice purity test, this application asks you a series of questions about your habits, preferences, and characteristics to calculate your CS score.
 
