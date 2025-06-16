@@ -48,6 +48,7 @@ const questions: Question[] = [
   { id: 26, text: "Is 'Pantene' a type of mouthwash?", weight: 1 },
   { id: 27, text: "Is 'Cetaphil' used for facial cleansing?", weight: 1 },
   { id: 28, text: "Is 'Sensodyne' a shampoo?", weight: 1 },
+  { id: 29, text: "Did you touch grass in the past week?", weight: 1 },
 ];
 
 function DarkModeToggle({ darkMode, setDarkMode }: { darkMode: boolean; setDarkMode: (v: boolean) => void }) {
