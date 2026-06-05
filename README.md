@@ -37,4 +37,9 @@ A fun quiz application that determines your "CS Score" based on various computer
 
 ## Contributing
 
-Feel free to submit issues and enhancement requests! 
+Feel free to submit issues and enhancement requests!
+
+## 📊 Current State of the Code
+- **Tech Stack:** React, Node.js/NPM
+- **Repository Size:** 18 tracked files
+- **Latest Update:** `202d877 chore: add stale issue and PR validators`
