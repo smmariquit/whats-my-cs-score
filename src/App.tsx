@@ -159,7 +159,7 @@ function App() {
             fontWeight="bold"
             fontSize="lg"
             boxShadow="lg"
-            animation="popUp 1.2s cubic-bezier(.36,1.01,.32,1)"
+            animation="popUp 1.2s ease-out"
           >
             {showBonus}
           </Box>
